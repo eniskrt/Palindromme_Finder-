@@ -1,0 +1,38 @@
+body{
+    min-height: 100vh;
+    background-color: #7ED7C1;
+}
+.card{
+    background-color: #DC8686;
+    box-shadow: 10px 10px 10px #B06161;
+}
+.input-group{
+    background-color: #F0DBAF!important;
+    border-radius: 7px!important;
+}
+button{
+    color:#B06161 !important;
+    font-weight: 600!important;
+    border: 2px solid #B06161!important;
+}
+button:hover{
+    background-color:#7ED7C1 !important;
+}
+input{
+    background-color: #F0DBAF!important;
+    border: 2px solid #B06161!important;
+    color: #b06161 !important;;
+}
+h3{
+    color: #F0DBAF!important;
+}
+h4{
+    color: #7ED7C1!important;
+}
+input::placeholder{
+    color: #B06161!important;
+    letter-spacing: 1px;
+}
+h1{
+    color:#F0DBAF;
+}
